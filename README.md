@@ -1,7 +1,7 @@
 <p align="left">Hi 👋, I'm Ivie Taft</p>
 <p align="left">A blossoming programmer, exploring the world of code!</p>
 
-- 🔭 I’m currently working at [Arux Software](https://www.arux.com/)
+- 🔭 I’m currently a full-stack intern at [Arux Software](https://www.arux.com/)
 
 - 🌱 I’m currently a senior in college at [Augsburg University](https://www.augsburg.edu/)
 
