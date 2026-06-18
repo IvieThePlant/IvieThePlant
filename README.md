@@ -1,29 +1,25 @@
-<p align="left">Hi 👋, I'm Ivie Taft</p>
-<p align="left">A blossoming programmer, exploring the world of code!</p>
+# Hi, I'm Ivie Taft
 
-- 🔭 I’m currently a full-stack intern at [Arux Software](https://www.arux.com/)
+Junior full-stack developer at [Arux Software](https://www.arux.com/)
 
-- 🌱 I’m currently a senior in college at [Augsburg University](https://www.augsburg.edu/)
+🌱 A budding programmer setting out to explore the wide world of code 🌱
 
-Connect with me:
-- Mail: **taftwilly@outlook.com**
-- LinkedIn: <a href="https://linkedin.com/in/ivie taft" target="blank">Ivie Taft</a></li>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  </a>
-</p>
+## About Me
+
+- Currently focused on working in Ruby on Rails framework
+- Occasionally work on video game modding
+
+## Tech Stack
+
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+## Connect With Me
+
+- Email: [ivietheplant@gmail.com](mailto:ivietheplant@gmail.com)
+- LinkedIn: [Ivie Taft](https://linkedin.com/in/ivie-taft)
