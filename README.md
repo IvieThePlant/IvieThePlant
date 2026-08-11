@@ -18,8 +18,3 @@ Junior full-stack developer at [Arux Software](https://www.arux.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-## Connect With Me
-
-- Email: [ivietheplant@gmail.com](mailto:ivietheplant@gmail.com)
-- LinkedIn: [Ivie Taft](https://linkedin.com/in/ivie-taft)
